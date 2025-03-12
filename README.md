@@ -46,5 +46,5 @@ Make sure to install the compatible version for your Chrome browser.
 5. Run the scraper:  
    ```sh
    python scraper.py  
-#Now you are good to go!   
+# Now you are good to go!   
 
