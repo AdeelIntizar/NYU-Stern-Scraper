@@ -39,9 +39,7 @@ It gathers valuable information about these people and stores it in a **CSV file
    https://developer.chrome.com/docs/chromedriver/downloads
   Make sure to install the compatible version for your Chrome browser.  
 3. **Install required Python libraries:**  
-   ```sh
-   pip install -r requirements.txt  
-  
+   **pip install -r requirements.txt**  
 4. Adjust the Chromedriver path in the script if necessary.  
 5. Run the scraper:  
    python scraper.py  
